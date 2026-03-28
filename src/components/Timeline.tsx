@@ -48,7 +48,7 @@ function Timeline() {
             <h3>BTech Computer Science</h3>
             <h4>JECRC University, Jaipur</h4>
             <p>
-              GPA: 7.58. Built strong foundations in programming, data structures, and software development.
+              Built strong foundations in programming, data structures, and software development.
             </p>
           </VerticalTimelineElement>
 
