@@ -2,7 +2,7 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
-import Xicon from '@mui/icons-material/X';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faThreads, faXTwitter } from '@fortawesome/free-brands-svg-icons';
 function Main() {
